@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw32rt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](https://raw.githubusercontent.com/sw32rt/sw32rt/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
 <!--
 **sw32rt/sw32rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
